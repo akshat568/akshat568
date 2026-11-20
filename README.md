@@ -16,3 +16,38 @@
 
     > session active. scroll to continue exploration ↓
 
+
+## `> ls -la /core_modules`
+
+    [LOADED] programming_languages/
+    ├── Java
+    ├── Python
+    └── JavaScript
+
+    [LOADED] frontend/
+    ├── React.js
+    ├── HTML5
+    ├── CSS3
+    └── Tailwind CSS
+
+    [LOADED] backend/
+    ├── Node.js
+    ├── Express.js
+    └── FastAPI
+
+    [LOADED] databases/
+    ├── MongoDB
+    └── MySQL
+
+    [LOADED] ai_ml/
+    ├── PyTorch
+    ├── TensorFlow
+    ├── Computer Vision
+    └── Machine Learning
+
+    [LOADED] tools/
+    ├── Git & GitHub
+    ├── VS Code
+    └── Postman
+
+    > all modules loaded successfully ✓
