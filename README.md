@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**akshat568/akshat568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## `> whoami --verbose`
 
-Here are some ideas to get you started:
+    > connecting to developer core...
+    > handshake: SUCCESS ✓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    name        : Akshat Singhal
+    role        : Software Developer + AI/ML Enthusiast
+    degree      : B.Tech Computer Science & Engineering
+    focus_areas : [Artificial Intelligence, Machine Learning,
+                   Full-Stack Development, Data Structures & Algorithms]
+    languages   : [Java, Python, JavaScript]
+    currently   : >> building intelligent applications & scalable systems
+    interests   : [Computer Vision, LLMs, Backend Engineering]
+    motto       : "Turning ideas into intelligent solutions."
+
+    > session active. scroll to continue exploration ↓
+
