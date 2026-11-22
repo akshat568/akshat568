@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00FFD1&height=260&section=header&text=AKSHAT%20SINGHAL&fontSize=58&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20AI%2FML%20Engineering&descAlignY=58&descSize=18&descColor=A9B7C6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00FFD1&height=260&section=header&text=AKSHAT%20SINGHAL&fontSize=58&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%2FML%20Engineering&descAlignY=58&descSize=18&descColor=A9B7C6" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+booting_developer.exe...;%3E+initializing+intelligent+systems+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+Software+Developer+%C2%B7+Full-Stack+Development;%3E+AI%2FML+Engineering+%C2%B7+Computer+Vision+%C2%B7+Graph+ML;%3E+status%3A+turning+ideas+into+intelligent+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+booting_developer.exe...;%3E+initializing+intelligent+systems+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+Software+Developer+%C2%B7+AI%2FML+Engineering;%3E+Computer+Vision+%C2%B7+Graph+ML+%C2%B7+Full-Stack;%3E+status%3A+turning+ideas+into+intelligent+solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -223,26 +223,26 @@ motto          : "Turning ideas into intelligent solutions."
 
 ### 📜 A. Certifications
 
-| 📜 Credential / Certification | 🏢 Issuing Authority | 🏷️ Verification / Badge |
-| :--- | :--- | :---: |
-| **Oracle Agentic AI Certificate** | Oracle | <img src="https://img.shields.io/badge/Oracle-Agentic_AI-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Agentic AI" /> |
-| **Oracle AI Foundation Associate Certificate** | Oracle | <img src="https://img.shields.io/badge/Oracle-AI_Foundation-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle AI Foundation" /> |
-| **Oracle Cloud Infrastructure Architect Certificate** | Oracle | <img src="https://img.shields.io/badge/Oracle-OCI_Architect-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI Architect" /> |
-| **Oracle Cloud Infrastructure Certificate** | Oracle | <img src="https://img.shields.io/badge/Oracle-OCI_Certified-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI Certified" /> |
-| **Oracle Database Foundation Associate Certificate** | Oracle | <img src="https://img.shields.io/badge/Oracle-Database_Foundation-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database Foundation" /> |
-| **Introduction to Machine Learning** | NPTEL (IIT Madras) | <img src="https://img.shields.io/badge/NPTEL-IIT_Madras-FF6F00?style=flat-square&logoColor=white" alt="NPTEL IIT Madras" /> |
-| **Marketing Analytics** | NPTEL | <img src="https://img.shields.io/badge/NPTEL-SWAYAM-FF6F00?style=flat-square&logoColor=white" alt="NPTEL SWAYAM" /> |
-| **The Bits and Bytes of Computer Networking** | Google (Coursera) | <img src="https://img.shields.io/badge/Google-Coursera-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Coursera" /> |
+| 📜 Credential / Certification | 🏢 Issuing Authority |
+| :--- | :--- |
+| **Oracle Agentic AI Certificate** | Oracle |
+| **Oracle AI Foundation Associate Certificate** | Oracle |
+| **Oracle Cloud Infrastructure Architect Certificate** | Oracle |
+| **Oracle Cloud Infrastructure Certificate** | Oracle |
+| **Oracle Database Foundation Associate Certificate** | Oracle |
+| **Introduction to Machine Learning** | NPTEL (IIT Madras) |
+| **Marketing Analytics** | NPTEL |
+| **The Bits and Bytes of Computer Networking** | Google (Coursera) |
 
 <br/>
 
 ### 🏆 B. Scholarships & Achievements
 
-| 🏆 Scholarship / Achievement | 🏛️ Organization / Institution | 🏷️ Distinction |
-| :--- | :--- | :---: |
-| **Reliance Foundation Undergraduate Scholarship** | Reliance Foundation | <img src="https://img.shields.io/badge/Reliance_Foundation-Scholar-005A9E?style=flat-square&logoColor=white" alt="Reliance Foundation Scholar" /> |
-| **IIT (BHU) Serve Smart AI/ML Hackathon — National Finalist** | IIT (BHU) | <img src="https://img.shields.io/badge/IIT_BHU-National_Finalist-00FFD1?style=flat-square&logoColor=black&labelColor=0F0C29" alt="IIT BHU National Finalist" /> |
-| **IIT Guwahati Strategy Storm Hackathon — Participant** | IIT Guwahati | <img src="https://img.shields.io/badge/IIT_Guwahati-Participant-7928CA?style=flat-square&logoColor=white" alt="IIT Guwahati Participant" /> |
+| 🏆 Scholarship / Achievement | 🏛️ Organization / Institution |
+| :--- | :--- |
+| **Reliance Foundation Undergraduate Scholarship** | Reliance Foundation |
+| **IIT (BHU) Serve Smart AI/ML Hackathon — National Finalist** | IIT (BHU) |
+| **IIT Guwahati Strategy Storm Hackathon — Participant** | IIT Guwahati |
 
 </div>
 
