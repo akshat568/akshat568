@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00FFD1&height=260&section=header&text=AKSHAT%20SINGHAL&fontSize=58&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Full-Stack%20Systems&descAlignY=58&descSize=18&descColor=A9B7C6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:00FFD1&height=260&section=header&text=AKSHAT%20SINGHAL&fontSize=58&fontColor=00FFD1&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20AI%2FML%20Engineering&descAlignY=58&descSize=18&descColor=A9B7C6" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+booting_developer.exe...;%3E+initializing+intelligent+systems+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+Software+Developer+%2B+AI%2FML+Enthusiast;%3E+Computer+Vision+%C2%B7+Graph+ML+%C2%B7+Full-Stack;%3E+status%3A+turning+ideas+into+intelligent+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=800&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+booting_developer.exe...;%3E+initializing+intelligent+systems+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+Software+Developer+%C2%B7+Full-Stack+Development;%3E+AI%2FML+Engineering+%C2%B7+Computer+Vision+%C2%B7+Graph+ML;%3E+status%3A+turning+ideas+into+intelligent+solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -26,16 +26,18 @@
 > connecting to developer core...
 > handshake: SUCCESS ✓
 
-name        : Akshat Singhal
-role        : Software Developer + AI/ML Enthusiast
-degree      : B.Tech CSE @ VIT Bhopal (2023 → 2027)
-project_work:
+name           : Akshat Singhal
+role           : Software Developer
+specialization : Full-Stack Development
+domain         : AI/ML Engineering
+degree         : B.Tech CSE @ VIT Bhopal (2023 → 2027)
+project_work   :
   - Independent Projects → AI/ML & Full-Stack Development
   - Hackathons           → IIT (BHU) & IIT Guwahati
-focus_areas : [Computer Vision, NLP & LLMs, Graph ML, Full-Stack Systems]
-hackathons  : [IIT BHU — National Finalist, IIT Guwahati — Hackathon Participant]
-currently   : >> building intelligent applications & scalable systems
-motto       : "Turning ideas into intelligent solutions."
+focus_areas    : [Computer Vision, NLP & LLMs, Graph ML, Full-Stack Systems]
+hackathons     : [IIT BHU — National Finalist, IIT Guwahati — Hackathon Participant]
+currently      : >> building intelligent applications & scalable systems
+motto          : "Turning ideas into intelligent solutions."
 
 > session active. scroll to continue exploration ↓
 ```
@@ -223,10 +225,14 @@ motto       : "Turning ideas into intelligent solutions."
 
 | 📜 Credential / Certification | 🏢 Issuing Authority | 🏷️ Verification / Badge |
 | :--- | :--- | :---: |
+| **Oracle Agentic AI Certificate** | Oracle | <img src="https://img.shields.io/badge/Oracle-Agentic_AI-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Agentic AI" /> |
+| **Oracle AI Foundation Associate Certificate** | Oracle | <img src="https://img.shields.io/badge/Oracle-AI_Foundation-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle AI Foundation" /> |
+| **Oracle Cloud Infrastructure Architect Certificate** | Oracle | <img src="https://img.shields.io/badge/Oracle-OCI_Architect-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI Architect" /> |
+| **Oracle Cloud Infrastructure Certificate** | Oracle | <img src="https://img.shields.io/badge/Oracle-OCI_Certified-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI Certified" /> |
+| **Oracle Database Foundation Associate Certificate** | Oracle | <img src="https://img.shields.io/badge/Oracle-Database_Foundation-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database Foundation" /> |
 | **Introduction to Machine Learning** | NPTEL (IIT Madras) | <img src="https://img.shields.io/badge/NPTEL-IIT_Madras-FF6F00?style=flat-square&logoColor=white" alt="NPTEL IIT Madras" /> |
 | **Marketing Analytics** | NPTEL | <img src="https://img.shields.io/badge/NPTEL-SWAYAM-FF6F00?style=flat-square&logoColor=white" alt="NPTEL SWAYAM" /> |
 | **The Bits and Bytes of Computer Networking** | Google (Coursera) | <img src="https://img.shields.io/badge/Google-Coursera-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Coursera" /> |
-| *[Oracle Certification Name — To Be Verified]* | Oracle | <img src="https://img.shields.io/badge/Oracle-Pending_Verification-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Pending Verification" /> |
 
 <br/>
 
