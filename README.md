@@ -213,18 +213,30 @@ motto       : "Turning ideas into intelligent solutions."
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00FFD1&height=2&width=900" />
 </div>
 
-<!-- ═══════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
+<!-- ═══════════════════════ CREDENTIALS & ACHIEVEMENTS ═══════════════════ -->
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="32"/> `> cat certifications.txt`
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="32"/> `> cat /credentials --verbose`
 
 <div align="center">
 
-| 🏅 Credential / Achievement | 🏢 Issuing Organization / Institution |
-| :--- | :--- |
-| **AI/ML Hackathon — National Finalist** | **IIT (BHU)** |
-| **Strategy Storm 2025 — Hackathon Participant** | **IIT Guwahati** |
-| Introduction to Machine Learning | NPTEL (IIT Madras) |
-| The Bits and Bytes of Computer Networking | Google / Coursera |
+### 📜 A. Certifications
+
+| 📜 Credential / Certification | 🏢 Issuing Authority | 🏷️ Verification / Badge |
+| :--- | :--- | :---: |
+| **Introduction to Machine Learning** | NPTEL (IIT Madras) | <img src="https://img.shields.io/badge/NPTEL-IIT_Madras-FF6F00?style=flat-square&logoColor=white" alt="NPTEL IIT Madras" /> |
+| **Marketing Analytics** | NPTEL | <img src="https://img.shields.io/badge/NPTEL-SWAYAM-FF6F00?style=flat-square&logoColor=white" alt="NPTEL SWAYAM" /> |
+| **The Bits and Bytes of Computer Networking** | Google (Coursera) | <img src="https://img.shields.io/badge/Google-Coursera-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Coursera" /> |
+| *[Oracle Certification Name — To Be Verified]* | Oracle | <img src="https://img.shields.io/badge/Oracle-Pending_Verification-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Pending Verification" /> |
+
+<br/>
+
+### 🏆 B. Scholarships & Achievements
+
+| 🏆 Scholarship / Achievement | 🏛️ Organization / Institution | 🏷️ Distinction |
+| :--- | :--- | :---: |
+| **Reliance Foundation Undergraduate Scholarship** | Reliance Foundation | <img src="https://img.shields.io/badge/Reliance_Foundation-Scholar-005A9E?style=flat-square&logoColor=white" alt="Reliance Foundation Scholar" /> |
+| **IIT (BHU) Serve Smart AI/ML Hackathon — National Finalist** | IIT (BHU) | <img src="https://img.shields.io/badge/IIT_BHU-National_Finalist-00FFD1?style=flat-square&logoColor=black&labelColor=0F0C29" alt="IIT BHU National Finalist" /> |
+| **IIT Guwahati Strategy Storm Hackathon — Participant** | IIT Guwahati | <img src="https://img.shields.io/badge/IIT_Guwahati-Participant-7928CA?style=flat-square&logoColor=white" alt="IIT Guwahati Participant" /> |
 
 </div>
 
